@@ -1,4 +1,4 @@
-//package org.example; // За потреби додати
+//package org.example; // За потреби додати 
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
